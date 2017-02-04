@@ -7,6 +7,8 @@ namespace TTL
 		public TTLPage()
 		{
 			InitializeComponent();
+			MenuListView.ItemsSource = null;
+
 		}
 	}
 }
