@@ -24,7 +24,7 @@ namespace TTL.Droid
 
 			LoadApplication(new App());
 
-		};
+		}
 
 	}
 }
