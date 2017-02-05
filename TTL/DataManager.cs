@@ -3,9 +3,9 @@ using System.Collections.ObjectModel;
 
 namespace Data
 {
-	public class MyClass
+	public class DataManager
 	{
-		public MyClass()
+		public DataManager()
 		{
 		}
 
