@@ -4,5 +4,6 @@
 	         xmlns:local="clr-namespace:TTL" x:Class="TTL.TTLPage">
 	<ContentPage.Content>
 	<ListView x:Name="MenuListView"></ListView>
+		
 	</ContentPage.Content>
 </ContentPage>
